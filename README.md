@@ -1,0 +1,1 @@
+# Nerd Tech Hub\nProjeto unificado de Simulação C e IA em Python.\nAutor: Davi Cunha
